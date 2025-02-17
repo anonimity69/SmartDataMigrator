@@ -1,0 +1,632 @@
+[
+  {
+    "reward_name": "Red Cross 40 oz Tumbler",
+    "sku": "LYMUG-GEN-24",
+    "reward_group_id": 1803,
+    "reward_variation_id": 383,
+    "sandbox_group_id": "",
+    "tier": "Tier 1",
+    "point_cost": 400
+  },
+  {
+    "reward_name": "Platelet Donor 40 oz Tumbler",
+    "sku": "LYMUG-PLT-24",
+    "reward_group_id": 1905,
+    "reward_variation_id": 405,
+    "sandbox_group_id": 76581,
+    "tier": "Tier 1",
+    "point_cost": 400
+  },
+  {
+    "reward_name": "AB Elite 40 oz Tumbler",
+    "sku": "LYMUG-ABE-24",
+    "reward_group_id": 1904,
+    "reward_variation_id": 404,
+    "sandbox_group_id": 76580,
+    "tier": "Tier 1",
+    "point_cost": 400
+  },
+  {
+    "reward_name": "Sickle Cell Fighters 40 oz Tumbler",
+    "sku": "LYMUG-SC-24",
+    "reward_group_id": 1806,
+    "reward_variation_id": 386,
+    "sandbox_group_id": 76578,
+    "tier": "Tier 1",
+    "point_cost": 400
+  },
+  {
+    "reward_name": "Hero for Babies 40 oz Tumbler",
+    "sku": "LYMUG-H4B-24",
+    "reward_group_id": 1902,
+    "reward_variation_id": 402,
+    "sandbox_group_id": 76579,
+    "tier": "Tier 1",
+    "point_cost": 400
+  },
+  {
+    "reward_name": "UNIVERSAL HERO- 40 oz Tumbler",
+    "sku": "LYMUG-UHO-24",
+    "reward_group_id": 1804,
+    "reward_variation_id": 384,
+    "sandbox_group_id": 76577,
+    "tier": "Tier 1",
+    "point_cost": 400
+  },
+  {
+    "reward_name": "O+ Powerful 40 oz Tumbler",
+    "sku": "LYMUG-OPW-24",
+    "reward_group_id": 1903,
+    "reward_variation_id": 403,
+    "sandbox_group_id": 76673,
+    "tier": "Tier 1",
+    "point_cost": 400
+  },
+  {
+    "reward_name": "Rare Donor 40 oz Tumbler",
+    "sku": "LYMUG-RAR-24",
+    "reward_group_id": 1805,
+    "reward_variation_id": 385,
+    "sandbox_group_id": 77278,
+    "tier": "Tier 1",
+    "point_cost": 400
+  },
+  {
+    "reward_name": "Red Cross Backpack Cooler",
+    "sku": "LYBKP-GEN-24",
+    "reward_group_id": 1906,
+    "reward_variation_id": 406,
+    "sandbox_group_id": 76582,
+    "tier": "Tier 2",
+    "point_cost": 800
+  },
+  {
+    "reward_name": "Platelet Donor Backpack Cooler",
+    "sku": "LYBKP-PLT-24",
+    "reward_group_id": 1911,
+    "reward_variation_id": 411,
+    "sandbox_group_id": 76587,
+    "tier": "Tier 2",
+    "point_cost": 800
+  },
+  {
+    "reward_name": "AB Elite Backpack Cooler",
+    "sku": "LYBKP-ABE-24",
+    "reward_group_id": 1910,
+    "reward_variation_id": 410,
+    "sandbox_group_id": 76580,
+    "tier": "Tier 2",
+    "point_cost": 800
+  },
+  {
+    "reward_name": "Sickle Cell Fighters Backpack Cooler",
+    "sku": "LYBKP-SC-24",
+    "reward_group_id": 1909,
+    "reward_variation_id": 409,
+    "sandbox_group_id": 76585,
+    "tier": "Tier 2",
+    "point_cost": 800
+  },
+  {
+    "reward_name": "Hero for Babies Backpack Cooler",
+    "sku": "LYBKP-H4B-24",
+    "reward_group_id": 1807,
+    "reward_variation_id": 387,
+    "sandbox_group_id": 76584,
+    "tier": "Tier 2",
+    "point_cost": 800
+  },
+  {
+    "reward_name": "UNIVERSAL HERO- Backpack Cooler",
+    "sku": "LYBKP-UHO-24",
+    "reward_group_id": 1808,
+    "reward_variation_id": 388,
+    "sandbox_group_id": 76586,
+    "tier": "Tier 2",
+    "point_cost": 800
+  },
+  {
+    "reward_name": "O+ Powerful Backpack Cooler",
+    "sku": "LYBKP-OPW-24",
+    "reward_group_id": 1907,
+    "reward_variation_id": 407,
+    "sandbox_group_id": 76673,
+    "tier": "Tier 2",
+    "point_cost": 800
+  },
+  {
+    "reward_name": "Rare Donor Backpack Cooler",
+    "sku": "LYBKP-RAR-24",
+    "reward_group_id": 1908,
+    "reward_variation_id": 408,
+    "sandbox_group_id": 77279,
+    "tier": "Tier 2",
+    "point_cost": 800
+  },
+  {
+    "reward_name": "Red Cross Pack-N-Go Jacket",
+    "sku": "LYJK-S-GEN-24",
+    "reward_group_id": 2102,
+    "reward_variation_id": 443,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Red Cross Pack-N-Go Jacket",
+    "sku": "LYJK-M-GEN-24",
+    "reward_group_id": 2102,
+    "reward_variation_id": 444,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Red Cross Pack-N-Go Jacket",
+    "sku": "LYJK-L-GEN-24",
+    "reward_group_id": 2102,
+    "reward_variation_id": 445,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Red Cross Pack-N-Go Jacket",
+    "sku": "LYJK-XL-GEN-24",
+    "reward_group_id": 2102,
+    "reward_variation_id": 446,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Red Cross Pack-N-Go Jacket",
+    "sku": "LYJK-2XL-GEN-24",
+    "reward_group_id": 2102,
+    "reward_variation_id": 447,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Red Cross Pack-N-Go Jacket",
+    "sku": "LYJK-3XL-GEN-24",
+    "reward_group_id": 2102,
+    "reward_variation_id": 448,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Platelet Donor Pack-N-Go Jacket",
+    "sku": "LYJK-S-PLT-24",
+    "reward_group_id": 2104,
+    "reward_variation_id": 457,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Platelet Donor Pack-N-Go Jacket",
+    "sku": "LYJK-M-PLT-24",
+    "reward_group_id": 2104,
+    "reward_variation_id": 458,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Platelet Donor Pack-N-Go Jacket",
+    "sku": "LYJK-L-PLT-24",
+    "reward_group_id": 2104,
+    "reward_variation_id": 459,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Platelet Donor Pack-N-Go Jacket",
+    "sku": "LYJK-XL-PLT-24",
+    "reward_group_id": 2104,
+    "reward_variation_id": 460,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Platelet Donor Pack-N-Go Jacket",
+    "sku": "LYJK-2XL-PLT-24",
+    "reward_group_id": 2104,
+    "reward_variation_id": 461,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Platelet Donor Pack-N-Go Jacket",
+    "sku": "LYJK-3XL-PLT-24",
+    "reward_group_id": 2104,
+    "reward_variation_id": 482,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "AB Elite Pack-N-Go Jacket",
+    "sku": "LYJK-S-ABE-24",
+    "reward_group_id": 2003,
+    "reward_variation_id": 430,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "AB Elite Pack-N-Go Jacket",
+    "sku": "LYJK-M-ABE-24",
+    "reward_group_id": 2003,
+    "reward_variation_id": 431,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "AB Elite Pack-N-Go Jacket",
+    "sku": "LYJK-L-ABE-24",
+    "reward_group_id": 2003,
+    "reward_variation_id": 432,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "AB Elite Pack-N-Go Jacket",
+    "sku": "LYJK-XL-ABE-24",
+    "reward_group_id": 2003,
+    "reward_variation_id": 433,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "AB Elite Pack-N-Go Jacket",
+    "sku": "LYJK-2XL-ABE-24",
+    "reward_group_id": 2003,
+    "reward_variation_id": 434,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "AB Elite Pack-N-Go Jacket",
+    "sku": "LYJK-3XL-ABE-24",
+    "reward_group_id": 2003,
+    "reward_variation_id": 435,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Sickle Cell Fighters Pack-N-Go Jacket",
+    "sku": "LYJK-S-SC-24",
+    "reward_group_id": 2105,
+    "reward_variation_id": 484,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Sickle Cell Fighters Pack-N-Go Jacket",
+    "sku": "LYJK-M-SC-24",
+    "reward_group_id": 2105,
+    "reward_variation_id": 485,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Sickle Cell Fighters Pack-N-Go Jacket",
+    "sku": "LYJK-L-SC-24",
+    "reward_group_id": 2105,
+    "reward_variation_id": 486,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Sickle Cell Fighters Pack-N-Go Jacket",
+    "sku": "LYJK-XL-SC-24",
+    "reward_group_id": 2105,
+    "reward_variation_id": 487,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Sickle Cell Fighters Pack-N-Go Jacket",
+    "sku": "LYJK-2XL-SC-24",
+    "reward_group_id": 2105,
+    "reward_variation_id": 488,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Sickle Cell Fighters Pack-N-Go Jacket",
+    "sku": "LYJK-3XL-SC-24",
+    "reward_group_id": 2105,
+    "reward_variation_id": 489,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Hero for Babies Pack-N-Go Jacket",
+    "sku": "LYJK-S-H4B-24",
+    "reward_group_id": 2103,
+    "reward_variation_id": 450,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Hero for Babies Pack-N-Go Jacket",
+    "sku": "LYJK-M-H4B-24",
+    "reward_group_id": 2103,
+    "reward_variation_id": 451,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Hero for Babies Pack-N-Go Jacket",
+    "sku": "LYJK-L-H4B-24",
+    "reward_group_id": 2103,
+    "reward_variation_id": 452,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Hero for Babies Pack-N-Go Jacket",
+    "sku": "LYJK-XL-H4B-24",
+    "reward_group_id": 2103,
+    "reward_variation_id": 453,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Hero for Babies Pack-N-Go Jacket",
+    "sku": "LYJK-2XL-H4B-24",
+    "reward_group_id": 2103,
+    "reward_variation_id": 454,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Hero for Babies Pack-N-Go Jacket",
+    "sku": "LYJK-3XL-H4B-24",
+    "reward_group_id": 2103,
+    "reward_variation_id": 455,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "UNIVERSAL HERO- Pack-N-Go Jacket",
+    "sku": "LYJK-S-UHO-24",
+    "reward_group_id": 2002,
+    "reward_variation_id": 423,
+    "sandbox_group_id": 77380,
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "UNIVERSAL HERO- Pack-N-Go Jacket",
+    "sku": "LYJK-M-UHO-24",
+    "reward_group_id": 2002,
+    "reward_variation_id": 424,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "UNIVERSAL HERO- Pack-N-Go Jacket",
+    "sku": "LYJK-L-UHO-24",
+    "reward_group_id": 2002,
+    "reward_variation_id": 425,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "UNIVERSAL HERO- Pack-N-Go Jacket",
+    "sku": "LYJK-XL-UHO-24",
+    "reward_group_id": 2002,
+    "reward_variation_id": 426,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "UNIVERSAL HERO- Pack-N-Go Jacket",
+    "sku": "LYJK-2XL-UHO-24",
+    "reward_group_id": 2002,
+    "reward_variation_id": 427,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "UNIVERSAL HERO- Pack-N-Go Jacket",
+    "sku": "LYJK-3XL-UHO-24",
+    "reward_group_id": 2002,
+    "reward_variation_id": 428,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "O+ Powerful Pack-N-Go Jacket",
+    "sku": "LYJK-S-OPW-24",
+    "reward_group_id": 2004,
+    "reward_variation_id": 437,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "O+ Powerful Pack-N-Go Jacket",
+    "sku": "LYJK-M-OPW-24",
+    "reward_group_id": 2004,
+    "reward_variation_id": 438,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "O+ Powerful Pack-N-Go Jacket",
+    "sku": "LYJK-L-OPW-24",
+    "reward_group_id": 2004,
+    "reward_variation_id": 439,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "O+ Powerful Pack-N-Go Jacket",
+    "sku": "LYJK-XL-OPW-24",
+    "reward_group_id": 2004,
+    "reward_variation_id": 440,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "O+ Powerful Pack-N-Go Jacket",
+    "sku": "LYJK-2XL-OPW-24",
+    "reward_group_id": 2004,
+    "reward_variation_id": 441,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "O+ Powerful Pack-N-Go Jacket",
+    "sku": "LYJK-3XL-OPW-24",
+    "reward_group_id": 2004,
+    "reward_variation_id": 462,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Rare Donor Pack-N-Go Jacket",
+    "sku": "LYJK-S-RAR-24",
+    "reward_group_id": 2106,
+    "reward_variation_id": 491,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Rare Donor Pack-N-Go Jacket",
+    "sku": "LYJK-M-RAR-24",
+    "reward_group_id": 2106,
+    "reward_variation_id": 492,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Rare Donor Pack-N-Go Jacket",
+    "sku": "LYJK-L-RAR-24",
+    "reward_group_id": 2106,
+    "reward_variation_id": 493,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Rare Donor Pack-N-Go Jacket",
+    "sku": "LYJK-XL-RAR-24",
+    "reward_group_id": 2106,
+    "reward_variation_id": 494,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Rare Donor Pack-N-Go Jacket",
+    "sku": "LYJK-2XL-RAR-24",
+    "reward_group_id": 2106,
+    "reward_variation_id": 495,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Rare Donor Pack-N-Go Jacket",
+    "sku": "LYJK-3XL-RAR-24",
+    "reward_group_id": 2106,
+    "reward_variation_id": 496,
+    "sandbox_group_id": "",
+    "tier": "Tier 3",
+    "point_cost": 1200
+  },
+  {
+    "reward_name": "Platelet Donor Collapsible Event Chair",
+    "sku": "LYCHR-PLT-24",
+    "reward_group_id": 2006,
+    "reward_variation_id": 464,
+    "sandbox_group_id": 76675,
+    "tier": "Tier 4",
+    "point_cost": 2400
+  },
+  {
+    "reward_name": "AB Elite Collapsible Event Chair",
+    "sku": "LYCHR-ABE-24",
+    "reward_group_id": 2005,
+    "reward_variation_id": 463,
+    "sandbox_group_id": 76676,
+    "tier": "Tier 4",
+    "point_cost": 2400
+  },
+  {
+    "reward_name": "Sickle Cell Fighters Collapsible Event Chair",
+    "sku": "LYCHR-SC-24",
+    "reward_group_id": 2107,
+    "reward_variation_id": 497,
+    "sandbox_group_id": 76677,
+    "tier": "Tier 4",
+    "point_cost": 2400
+  },
+  {
+    "reward_name": "Red Cross Collapsible Event Chair",
+    "sku": "LYCHR-GEN-24",
+    "reward_group_id": 3402,
+    "reward_variation_id": 742,
+    "sandbox_group_id": "",
+    "tier": "Tier 4",
+    "point_cost": 2400
+  },
+  {
+    "reward_name": "Donate Points",
+    "sku": null,
+    "reward_group_id": 1702,
+    "reward_variation_id": 362,
+    "sandbox_group_id": "",
+    "tier": "Donate Points",
+    "point_cost": 100
+  },
+  {
+    "reward_name": "$10 e-Gift Card",
+    "sku": null,
+    "reward_group_id": 1802,
+    "reward_variation_id": 382,
+    "sandbox_group_id": "",
+    "tier": "Gift Card",
+    "point_cost": 500
+  }
+]

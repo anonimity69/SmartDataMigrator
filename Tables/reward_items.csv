@@ -1,0 +1,72 @@
+reward_name,sku,reward_group_id,reward_variation_id,sandbox_group_id,tier,point_cost
+Red Cross 40 oz Tumbler,LYMUG-GEN-24,1803,383,,Tier 1,400
+Platelet Donor 40 oz Tumbler,LYMUG-PLT-24,1905,405,76581,Tier 1,400
+AB Elite 40 oz Tumbler,LYMUG-ABE-24,1904,404,76580,Tier 1,400
+Sickle Cell Fighters 40 oz Tumbler,LYMUG-SC-24,1806,386,76578,Tier 1,400
+Hero for Babies 40 oz Tumbler,LYMUG-H4B-24,1902,402,76579,Tier 1,400
+UNIVERSAL HERO- 40 oz Tumbler,LYMUG-UHO-24,1804,384,76577,Tier 1,400
+O+ Powerful 40 oz Tumbler,LYMUG-OPW-24,1903,403,76673,Tier 1,400
+Rare Donor 40 oz Tumbler,LYMUG-RAR-24,1805,385,77278,Tier 1,400
+Red Cross Backpack Cooler,LYBKP-GEN-24,1906,406,76582,Tier 2,800
+Platelet Donor Backpack Cooler,LYBKP-PLT-24,1911,411,76587,Tier 2,800
+AB Elite Backpack Cooler,LYBKP-ABE-24,1910,410,76580,Tier 2,800
+Sickle Cell Fighters Backpack Cooler,LYBKP-SC-24,1909,409,76585,Tier 2,800
+Hero for Babies Backpack Cooler,LYBKP-H4B-24,1807,387,76584,Tier 2,800
+UNIVERSAL HERO- Backpack Cooler,LYBKP-UHO-24,1808,388,76586,Tier 2,800
+O+ Powerful Backpack Cooler,LYBKP-OPW-24,1907,407,76673,Tier 2,800
+Rare Donor Backpack Cooler,LYBKP-RAR-24,1908,408,77279,Tier 2,800
+Red Cross Pack-N-Go Jacket,LYJK-S-GEN-24,2102,443,,Tier 3,1200
+Red Cross Pack-N-Go Jacket,LYJK-M-GEN-24,2102,444,,Tier 3,1200
+Red Cross Pack-N-Go Jacket,LYJK-L-GEN-24,2102,445,,Tier 3,1200
+Red Cross Pack-N-Go Jacket,LYJK-XL-GEN-24,2102,446,,Tier 3,1200
+Red Cross Pack-N-Go Jacket,LYJK-2XL-GEN-24,2102,447,,Tier 3,1200
+Red Cross Pack-N-Go Jacket,LYJK-3XL-GEN-24,2102,448,,Tier 3,1200
+Platelet Donor Pack-N-Go Jacket,LYJK-S-PLT-24,2104,457,,Tier 3,1200
+Platelet Donor Pack-N-Go Jacket,LYJK-M-PLT-24,2104,458,,Tier 3,1200
+Platelet Donor Pack-N-Go Jacket,LYJK-L-PLT-24,2104,459,,Tier 3,1200
+Platelet Donor Pack-N-Go Jacket,LYJK-XL-PLT-24,2104,460,,Tier 3,1200
+Platelet Donor Pack-N-Go Jacket,LYJK-2XL-PLT-24,2104,461,,Tier 3,1200
+Platelet Donor Pack-N-Go Jacket,LYJK-3XL-PLT-24,2104,482,,Tier 3,1200
+AB Elite Pack-N-Go Jacket,LYJK-S-ABE-24,2003,430,,Tier 3,1200
+AB Elite Pack-N-Go Jacket,LYJK-M-ABE-24,2003,431,,Tier 3,1200
+AB Elite Pack-N-Go Jacket,LYJK-L-ABE-24,2003,432,,Tier 3,1200
+AB Elite Pack-N-Go Jacket,LYJK-XL-ABE-24,2003,433,,Tier 3,1200
+AB Elite Pack-N-Go Jacket,LYJK-2XL-ABE-24,2003,434,,Tier 3,1200
+AB Elite Pack-N-Go Jacket,LYJK-3XL-ABE-24,2003,435,,Tier 3,1200
+Sickle Cell Fighters Pack-N-Go Jacket,LYJK-S-SC-24,2105,484,,Tier 3,1200
+Sickle Cell Fighters Pack-N-Go Jacket,LYJK-M-SC-24,2105,485,,Tier 3,1200
+Sickle Cell Fighters Pack-N-Go Jacket,LYJK-L-SC-24,2105,486,,Tier 3,1200
+Sickle Cell Fighters Pack-N-Go Jacket,LYJK-XL-SC-24,2105,487,,Tier 3,1200
+Sickle Cell Fighters Pack-N-Go Jacket,LYJK-2XL-SC-24,2105,488,,Tier 3,1200
+Sickle Cell Fighters Pack-N-Go Jacket,LYJK-3XL-SC-24,2105,489,,Tier 3,1200
+Hero for Babies Pack-N-Go Jacket,LYJK-S-H4B-24,2103,450,,Tier 3,1200
+Hero for Babies Pack-N-Go Jacket,LYJK-M-H4B-24,2103,451,,Tier 3,1200
+Hero for Babies Pack-N-Go Jacket,LYJK-L-H4B-24,2103,452,,Tier 3,1200
+Hero for Babies Pack-N-Go Jacket,LYJK-XL-H4B-24,2103,453,,Tier 3,1200
+Hero for Babies Pack-N-Go Jacket,LYJK-2XL-H4B-24,2103,454,,Tier 3,1200
+Hero for Babies Pack-N-Go Jacket,LYJK-3XL-H4B-24,2103,455,,Tier 3,1200
+UNIVERSAL HERO- Pack-N-Go Jacket,LYJK-S-UHO-24,2002,423,77380,Tier 3,1200
+UNIVERSAL HERO- Pack-N-Go Jacket,LYJK-M-UHO-24,2002,424,,Tier 3,1200
+UNIVERSAL HERO- Pack-N-Go Jacket,LYJK-L-UHO-24,2002,425,,Tier 3,1200
+UNIVERSAL HERO- Pack-N-Go Jacket,LYJK-XL-UHO-24,2002,426,,Tier 3,1200
+UNIVERSAL HERO- Pack-N-Go Jacket,LYJK-2XL-UHO-24,2002,427,,Tier 3,1200
+UNIVERSAL HERO- Pack-N-Go Jacket,LYJK-3XL-UHO-24,2002,428,,Tier 3,1200
+O+ Powerful Pack-N-Go Jacket,LYJK-S-OPW-24,2004,437,,Tier 3,1200
+O+ Powerful Pack-N-Go Jacket,LYJK-M-OPW-24,2004,438,,Tier 3,1200
+O+ Powerful Pack-N-Go Jacket,LYJK-L-OPW-24,2004,439,,Tier 3,1200
+O+ Powerful Pack-N-Go Jacket,LYJK-XL-OPW-24,2004,440,,Tier 3,1200
+O+ Powerful Pack-N-Go Jacket,LYJK-2XL-OPW-24,2004,441,,Tier 3,1200
+O+ Powerful Pack-N-Go Jacket,LYJK-3XL-OPW-24,2004,462,,Tier 3,1200
+Rare Donor Pack-N-Go Jacket,LYJK-S-RAR-24,2106,491,,Tier 3,1200
+Rare Donor Pack-N-Go Jacket,LYJK-M-RAR-24,2106,492,,Tier 3,1200
+Rare Donor Pack-N-Go Jacket,LYJK-L-RAR-24,2106,493,,Tier 3,1200
+Rare Donor Pack-N-Go Jacket,LYJK-XL-RAR-24,2106,494,,Tier 3,1200
+Rare Donor Pack-N-Go Jacket,LYJK-2XL-RAR-24,2106,495,,Tier 3,1200
+Rare Donor Pack-N-Go Jacket,LYJK-3XL-RAR-24,2106,496,,Tier 3,1200
+Platelet Donor Collapsible Event Chair,LYCHR-PLT-24,2006,464,76675,Tier 4,2400
+AB Elite Collapsible Event Chair,LYCHR-ABE-24,2005,463,76676,Tier 4,2400
+"Sickle Cell Fighters Collapsible Event Chair
+",LYCHR-SC-24,2107,497,76677,Tier 4,2400
+Red Cross Collapsible Event Chair,LYCHR-GEN-24,3402,742,,Tier 4,2400
+Donate Points,null,1702,362,,Donate Points,100
+$10 e-Gift Card,null,1802,382,,Gift Card,500
